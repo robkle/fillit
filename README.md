@@ -9,7 +9,7 @@ Repository contains a Makefile for:<br />
 * deleting executable (**make fclean**)<br />
 * recompiling (**make re**)<br /><br />
 
-**Tetris blocks**<br />
+Tetris blocks<br />
 * Given in 4 lines of 4 characters each. <br />
 * Tetris block consists of 4 '#' characters. Empty spaces indicated by '.'<br />
 * Each tetris block is seperated by an empty line<br />
