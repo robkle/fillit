@@ -16,5 +16,9 @@ Repository contains a Makefile for:<br />
 * Invalid file format or invalid tetris block returns 'error' on the standard output<br />
 * Example of valid input, running and output:<br />
   <img src="Fillit_example.png" alt="example" width="420"/><br />
+#### Notes:
+This project was done together with [T7Q](https://github.com/T7Q) and is part of my studies at Hive Helsinki.<br />
+My part of the code handles the validation and parsing of the tetris blocks. <br />
+The project was tested by 3 fellow Hive students as well as an automated evaluation system.
 
 
