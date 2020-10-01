@@ -14,4 +14,4 @@ Repository contains a Makefile for:<br />
 * Tetris block consists of 4 '#' characters. Empty spaces indicated by '.'<br />
 * Each tetris block is seperated by an empty line<br />
 * Example input:<br />
-<img src="Fillit_example.png" alt="example" width="290"/>
+   <img src="Fillit_example.png" alt="example" width="320"/>
