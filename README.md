@@ -13,6 +13,8 @@ Repository contains a Makefile for:<br />
 * Given in 4 lines of 4 characters each. <br />
 * Tetris block consists of 4 '#' characters. Empty spaces indicated by '.'<br />
 * Each tetris block is seperated by an empty line<br />
+* Invalid file format or invalid tetris block returns 'error' on the standard output<br />
 * Example of valid input, running and output:<br />
-  <img src="Fillit_example.png" alt="example" width="400"/>
+  <img src="Fillit_example.png" alt="example" width="420"/><br />
+
 
